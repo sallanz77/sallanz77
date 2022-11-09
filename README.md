@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm currently doing a full stack developer course - fun!
+- I'm currently doing a full stack developer course - fun!
+- I'm an animal lover and a detail-oriented grammar nerd
+- My pronouns are she/her
 
 <!--
 **sallanz77/sallanz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
